@@ -1,0 +1,64 @@
+{ "datajson" :[
+
+	 {
+		"#inAlbum":     ["Album:", "One"],
+		"#inSong":      ["Song:", "Nautilus"],
+		"#inArtist":    ["Artist:", "Bob James"],
+		"#inWriter":    ["Writer:", "B.James"],
+		"#inPub":       ["Publisher:", "ArchieRose Publishing"],
+		"#inLabel":     ["Label:", "CTI"],
+		"#date":        ["Date:", "2011-22-4"],
+		"#sampLength":  ["Length:", "5"],
+		"#comments":    ["Description:", "For Drum Use."]
+
+    },
+	{
+		"#inAlbum":     ["Album:", "Long Stroke"],
+		"#inSong":      ["Song:", "Funky Combo"],
+		"#inArtist":    ["Artist:", "ADC Band"],
+		"#inWriter":    ["Writer:", "B.James"],
+		"#inPub":       ["Publisher:", "ArchieRose Publishing"],
+		"#inLabel":     ["Label:", "Arista"],
+		"#date":        ["Date:", "2011-22-4"],
+		"#sampLength":  ["Length:", "2"],
+		"#comments":    ["Description:", "For Drum Use."]
+
+	},
+	{
+		"#inAlbum":     ["Album:", "Straight From The Gate"],
+		"#inSong":      ["Song:", "Pork Soda"],
+		"#inArtist":    ["Artist:", "The Headhunters"],
+		"#inWriter":    ["Writer:", "B.James"],
+		"#inPub":       ["Publisher:", "ArchieRose Publishing"],
+		"#inLabel":     ["Label:", "Cotillion"],
+		"#date":        ["Date:", "2011-22-4"],
+		"#sampLength":  ["Length:", "3"],
+		"#comments":    ["Description:", "For String  Use."]
+
+	},
+    {
+		"#inAlbum":     ["Album:", "Heaven & Earth"],
+		"#inSong":      ["Song:", "Run & Tell That"],
+		"#inArtist":    ["Artist:", "Heaven & Earth"],
+		"#inWriter":    ["Writer:", "B.James"],
+		"#inPub":       ["Publisher:", "ArchieRose Publishing"],
+		"#inLabel":     ["Label:", "Columbia"],
+		"#date":        ["Date:", "2011-22-4"],
+		"#sampLength":  ["Length:", "8"],
+		"#comments":    ["Description:", "For Horn Section Use."]
+
+	},  
+	{
+		"#inAlbum":     ["Album:", "Odyssey"],
+		"#inSong":      ["Song:", "Phire"],
+		"#inArtist":    ["Artist:", "Charles Earland"],
+		"#inWriter":    ["Writer:", "B.James"],
+		"#inPublisher": ["Publisher:", "ArchieRose Publishing"],
+		"#inLabel":     ["Label:", "Mercury"],
+		"#date":        ["Date:", "2011-22-4"],
+		"#sampLength":  ["Length:", "7"],
+		"#comments":    ["Description:", "For Piano Use."]
+
+	}
+
+]}
